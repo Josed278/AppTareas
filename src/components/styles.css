@@ -1,0 +1,56 @@
+/* styles.css */
+
+.btn-secondary {
+  background-color: lightblue;
+  height:40px;
+  left: 30px;
+  position: relative;
+  top: 1px;
+  width: 100px;
+
+.btn-separate {
+  margin-right: 300px;
+}
+.login-form {
+  width: 350px !important;
+}
+
+.perfil-form {
+  border: 1px solid #ccc; /* Línea alrededor del formulario */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+.perfil-form h4 {
+  margin-bottom: 1rem; /* Espacio debajo del título */
+}
+
+.perfil-form {
+  width: 650px; /* Ancho fijo de 550px */
+  border: 1px solid #ccc; /* Línea alrededor del formulario */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+.perfil-form h4 {
+  margin-bottom: 1rem; /* Espacio debajo del título */
+}
+
+.container .form-select.custom-select {
+  width: 450px !important;
+}
+
+/* Asegúrate de que el archivo CSS esté siendo cargado correctamente */
+
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Separa los botones a los extremos */
+  margin-top: 20px; /* Añade margen superior si es necesario */
+}
+
+.btn {
+  flex: 1; /* Asegura que los botones ocupen el mismo ancho si es necesario */
+}
+
+.btn-primary {
+  margin-right: 150px; /* Espacio entre los botones */
+}
+
