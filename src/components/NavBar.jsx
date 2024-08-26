@@ -1,4 +1,4 @@
-import appLogo from "../assets/react.svg";
+import appLogo from "./assets/react.svg";
 import NavMenu from "./NavMenu";
 import { useContext } from "react";
 import ThemeContext from "../contexts/ThemeContext";
