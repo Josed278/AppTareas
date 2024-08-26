@@ -1,5 +1,3 @@
-import "./styles.css"; // Asegúrate de que la ruta es correcta
-
 function NewCard() {
   return (
     <div className="container mt-5">

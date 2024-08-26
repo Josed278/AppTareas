@@ -1,6 +1,3 @@
-import "./styles.css"; // Asegúrate de que la ruta es correcta
-import Text from "./Text"; // Importa el componente Text
-
 function Card() {
   return (
     <div className="card" style={{ width: "550px" }}>
