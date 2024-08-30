@@ -1,13 +1,11 @@
-# Context in React
+# React + Vite
 
-This repository contains the code for the context in React tutorial.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-The repository contains two branches for each example of context in React:
+Currently, two official plugins are available:
 
-- One branch contains the code for the tutorial without using context. This code implements the same functionality as the tutorial but with props drilling.
-- The other branch contains the code for the tutorial using context.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-Two examples are covered in the tutorial at the moment:
-
-- [x] Theme Context: This example demonstrates how to use context to change the theme of a React application.
-- [x] Internationalization Context: This example demonstrates how to use context to change the language of a React application.
+----------------------------------------------------------------------------------------------------------------------------------------
+instalar: npm i bootstrap@5.3.3
